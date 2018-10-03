@@ -1,4 +1,4 @@
-Â# This is only a hotfix test
+This is only a hotfix test
 
 
 # kaniko - Build Images In Kubernetes
